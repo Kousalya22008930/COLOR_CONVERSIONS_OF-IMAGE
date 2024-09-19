@@ -66,7 +66,8 @@ cv2.imshow('KOUSALYA_212222230068',image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-![image](https://github.com/user-attachments/assets/75f70659-2624-4bb9-80cb-5cd76957d2fa)
+![image](https://github.com/user-attachments/assets/e8f48691-c4ba-4803-87f4-055b82584650)
+
 
 ### Draw Shapes and Add Text
 (1) Draw a line from the top-left to the bottom-right of the image.
@@ -93,7 +94,7 @@ cv2.imshow('KOUSALYA_212222230068', res)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-![image](https://github.com/user-attachments/assets/f70ab9fd-f586-4c03-9291-217a67e1b123)
+![Uploading image.png…]()
 
 3.Draw a rectangle around a specific region of interest in the image.
 ```python
